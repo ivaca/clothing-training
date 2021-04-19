@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/clothing-training/static/css/main.fa263acc.chunk.css",
-    "main.js": "/clothing-training/static/js/main.b01a59e6.chunk.js",
-    "main.js.map": "/clothing-training/static/js/main.b01a59e6.chunk.js.map",
+    "main.js": "/clothing-training/static/js/main.5c0bbf17.chunk.js",
+    "main.js.map": "/clothing-training/static/js/main.5c0bbf17.chunk.js.map",
     "runtime-main.js": "/clothing-training/static/js/runtime-main.e960f178.js",
     "runtime-main.js.map": "/clothing-training/static/js/runtime-main.e960f178.js.map",
-    "static/js/2.ab1563a0.chunk.js": "/clothing-training/static/js/2.ab1563a0.chunk.js",
-    "static/js/2.ab1563a0.chunk.js.map": "/clothing-training/static/js/2.ab1563a0.chunk.js.map",
+    "static/js/2.1162527a.chunk.js": "/clothing-training/static/js/2.1162527a.chunk.js",
+    "static/js/2.1162527a.chunk.js.map": "/clothing-training/static/js/2.1162527a.chunk.js.map",
     "index.html": "/clothing-training/index.html",
     "static/css/main.fa263acc.chunk.css.map": "/clothing-training/static/css/main.fa263acc.chunk.css.map",
-    "static/js/2.ab1563a0.chunk.js.LICENSE.txt": "/clothing-training/static/js/2.ab1563a0.chunk.js.LICENSE.txt",
+    "static/js/2.1162527a.chunk.js.LICENSE.txt": "/clothing-training/static/js/2.1162527a.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/clothing-training/static/media/crown.3a4e2b15.svg",
     "static/media/shopping-bag.a688874f.svg": "/clothing-training/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e960f178.js",
-    "static/js/2.ab1563a0.chunk.js",
+    "static/js/2.1162527a.chunk.js",
     "static/css/main.fa263acc.chunk.css",
-    "static/js/main.b01a59e6.chunk.js"
+    "static/js/main.5c0bbf17.chunk.js"
   ]
 }
