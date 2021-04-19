@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clothing-training/static/css/main.fa263acc.chunk.css",
-    "main.js": "/clothing-training/static/js/main.e055bb0a.chunk.js",
-    "main.js.map": "/clothing-training/static/js/main.e055bb0a.chunk.js.map",
+    "main.js": "/clothing-training/static/js/main.157ad031.chunk.js",
+    "main.js.map": "/clothing-training/static/js/main.157ad031.chunk.js.map",
     "runtime-main.js": "/clothing-training/static/js/runtime-main.e960f178.js",
     "runtime-main.js.map": "/clothing-training/static/js/runtime-main.e960f178.js.map",
     "static/js/2.066a44fa.chunk.js": "/clothing-training/static/js/2.066a44fa.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e960f178.js",
     "static/js/2.066a44fa.chunk.js",
     "static/css/main.fa263acc.chunk.css",
-    "static/js/main.e055bb0a.chunk.js"
+    "static/js/main.157ad031.chunk.js"
   ]
 }
